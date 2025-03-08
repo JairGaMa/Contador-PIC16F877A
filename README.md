@@ -52,3 +52,7 @@ Este proyecto implementa un contador utilizando el microcontrolador **PIC16F877A
 - Compila el código en **mikroC PRO for PIC**.  
 - Sube el archivo .hex al PIC16F877A.  
 - Alimenta el circuito y observa el display y el relevador.
+
+### 🎥 Video de evidencia
+<video src="https://github.com/usuario/repositorio/raw/main/evidenciaVideo.mp4" controls width="600"></video>
+
