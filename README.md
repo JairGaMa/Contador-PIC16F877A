@@ -17,7 +17,7 @@ Este proyecto implementa un contador utilizando el microcontrolador **PIC16F877A
 ---
 
 ### Archivos incluidos 📂
-- `codigo.ino` - Código fuente en C para el microcontrolador.  
+- `codigo.c` - Código fuente en C para el microcontrolador.  
 - `evidenciaFoto.jpeg` - Imagen como evidencia del proyecto.  
 - `evidenciaTabla.jpeg` - Tabla con datos recopilados durante las pruebas.  
 - `evidenciaVideo.mp4` - Video mostrando el funcionamiento del contador.  
