@@ -54,5 +54,5 @@ Este proyecto implementa un contador utilizando el microcontrolador **PIC16F877A
 - Alimenta el circuito y observa el display y el relevador.
 
 ### 🎥 Video de evidencia
-<video src="https://github.com/usuario/repositorio/raw/main/evidenciaVideo.mp4" controls width="600"></video>
+<video src="https://github.com/usuario/repositorio/raw/main/evidenciaVideo.mp4](https://github.com/JairGaMa/Contador-PIC16F877A/blob/main/evidenciaVideo.mp4" controls width="600"></video>
 
